@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="my_name">Chee YF</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="profile_pic">Profile Picture</string>
-    <string name="my_desc">My Name is Chee Yi Feng AKA GaRy
+    <string name="my_desc">My Name is Chee Yi Feng aka GaRy
         \nFoods I like: Everything as long as it is meat and not vegetable
         \n
     \nHobbies: Badminton,Computer Games, and etc
